@@ -1,0 +1,8 @@
+{
+  "name": "Kalkulator Zakat Indonesia",
+  "description": "Aplikasi web untuk membantu menghitung taksiran kewajiban Zakat berdasarkan jenis harta (penghasilan, mal, emas & perak, perniagaan, dan fitrah) sesuai dengan konteks Indonesia. Pengguna dapat memasukkan harga emas terkini untuk perhitungan nisab yang dinamis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
